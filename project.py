@@ -27,7 +27,6 @@ def main():
     width = 600
     rows = 12
     surface = pygame.display.set_mode((width, rows))
-
     check = True
     clock = pygame.time.Clock()
     while check:
